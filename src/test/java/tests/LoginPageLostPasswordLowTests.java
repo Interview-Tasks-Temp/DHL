@@ -1,6 +1,6 @@
 package tests;
 
-public class LoginPageLostPasswordLowTests {
+public class LoginPageLostPasswordTests {
 
 	/**
 	 * 
